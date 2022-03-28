@@ -30,3 +30,7 @@ summary p {
 .heading-subtitle {
     margin: 0;
 }
+
+.heading-subtitle a {
+    float: right;
+}
