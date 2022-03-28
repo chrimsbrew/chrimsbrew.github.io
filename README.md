@@ -1,2 +1,2 @@
 # chrimsbrew.github.io
-My website.
+My website. You can find it at [chrimsbrew.me](https://chrimsbrew.me).
